@@ -17,7 +17,20 @@
 }
 
 img {
-    height: 560px;
+    height: 550px;
+}
+
+.product-image {
+    position: relative;
+}
+
+.wishlist {
+	position: absolute;
+	top: 20px;
+    right: 0;
+	font-size: 30px;
+	background-color: #fff;
+	padding: 8px 15px; 
 }
 
 .new-price {
